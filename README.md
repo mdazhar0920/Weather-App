@@ -1,7 +1,7 @@
 # Weather-App
 WeatherApp is a dynamic web application built using HTML, CSS, and JavaScript that provides real-time weather information for different cities using APIs.
 
-*Features*
+#Features
 API Integration: Utilizes weather APIs to fetch up-to-date weather data for various cities.
 City Selection: Allows users to search and select different cities to view their current weather conditions.
 Responsive Design: Responsive layout ensures a seamless experience across a range of devices.
