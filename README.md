@@ -7,3 +7,9 @@ WeatherApp is a dynamic web application built using HTML, CSS, and JavaScript th
 **Responsive Design:** Responsive layout ensures a seamless experience across a range of devices.
 **Data Visualization:** Displays temperature, humidity, and other key weather parameters through user-friendly graphical elements.
 **User-friendly Interface:** Offers an intuitive and visually appealing interface for easy interaction.
+
+
+
+
+
+
